@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Celebration",
+  "base_artist": "Kool & The Gang",
+  "createdAt": "2026-02-22T11:48:55.424955Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Celebration Day - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/01_Celebration_Day_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Celebration Day",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/02_Celebration_Day_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Celebration Station",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/03_Celebration_Station_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Celebration",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/04_A_Celebration_U2.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Celebration",
+      "artist": "Kool & The Gang",
+      "has_synced": true,
+      "path": "select/05_Celebration_Kool_&_The_Gang.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Celebration",
+      "artist": "Kool & The Gang",
+      "has_synced": true,
+      "path": "select/06_Celebration_Kool_&_The_Gang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Celebration",
+      "artist": "Oliver Francis",
+      "has_synced": true,
+      "path": "select/07_Celebration_Oliver_Francis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Celebration Day",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/08_Celebration_Day_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Christmas Celebration",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/09_Christmas_Celebration_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The European Female (In Celebration Of)",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/10_The_European_Female_(In_Celebration_Of)_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Celebration Rap - Maxi",
+      "artist": "MC Miker & DJ Sven",
+      "has_synced": true,
+      "path": "select/11_Celebration_Rap_-_Maxi_MC_Miker_&_DJ_Sven.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Celebration Rap (Version 1986)",
+      "artist": "MC Miker & DJ Sven",
+      "has_synced": true,
+      "path": "select/12_Celebration_Rap_(Version_1986)_MC_Miker_&_DJ_Sven.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "European Female (In Celebration Of)",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/13_European_Female_(In_Celebration_Of)_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Half Light II (No Celebration)",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/14_Half_Light_II_(No_Celebration)_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Celebration",
+      "artist": "Fun Factory",
+      "has_synced": true,
+      "path": "select/15_Celebration_Fun_Factory.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Celebration - Spyzr Remix Edit",
+      "artist": "Fun Factory",
+      "has_synced": false,
+      "path": "select/16_Celebration_-_Spyzr_Remix_Edit_Fun_Factory.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let Me Think About It (Celebration Mix)",
+      "artist": "Fedde Le Grand feat. Ida Corr",
+      "has_synced": true,
+      "path": "select/17_Let_Me_Think_About_It_(Celebration_Mix)_Fedde_Le_Grand_feat._Ida_Corr.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Celebration",
+      "artist": "Kool & The Gang",
+      "has_synced": false,
+      "path": "select/pl_01_Celebration_Kool_&_The_Gang.txt"
+    }
+  ]
+}
